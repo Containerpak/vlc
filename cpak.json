@@ -1,5 +1,5 @@
 {
-  "manifest_version": "1.0",
+  "manifest_version": "2.0",
   "name": "VLC",
   "description": "Play video, audio and network streams.",
   "version": "3.0.23",
