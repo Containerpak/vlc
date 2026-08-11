@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "name": "VLC",
   "description": "Play video, audio and network streams.",
-  "version": "3.0.21",
+  "version": "3.0.23",
   "image": "ghcr.io/containerpak/vlc:main",
   "binaries": ["/usr/bin/vlc"],
   "desktop_entries": ["/usr/share/applications/vlc.desktop"],
