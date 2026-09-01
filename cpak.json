@@ -4,7 +4,7 @@
   "name": "VLC",
   "description": "Play video, audio and network streams.",
   "version": "3.0.23",
-  "image": "ghcr.io/containerpak/vlc@sha256:2e12c2e48d65988197535d24d3ea6ee4742259d6f1989b50e71869affa9fa269",
+  "image": "ghcr.io/containerpak/vlc@sha256:4381cea38acd88d8dc7adb32bbb68b596202f130a5689c40dfad0718b354d714",
   "binaries": [
     "/usr/bin/vlc"
   ],
